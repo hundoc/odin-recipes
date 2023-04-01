@@ -1,2 +1,2 @@
 # odin-recipes
-Basic HTML skills
+Basic HTML and CSS skills
